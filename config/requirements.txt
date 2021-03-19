@@ -16,7 +16,7 @@ django-cors-headers==3.2.1
 django-picklefield==2.1.1
 django-q==1.2.1
 django==3.0.3
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 gevent==1.4.0
 greenlet==0.4.15          # via gevent
 gunicorn==20.0.4
