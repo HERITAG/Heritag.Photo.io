@@ -22,7 +22,7 @@ greenlet==0.4.15          # via gevent
 gunicorn==20.0.4
 idna==2.9                 # via requests
 itypes==1.1.0             # via coreapi
-jinja2==2.11.1            # via coreschema
+jinja2==2.11.3            # via coreschema
 markupsafe==1.1.1         # via jinja2
 pillow==7.0.0
 psycopg2==2.8.4
