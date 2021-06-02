@@ -35,7 +35,7 @@ requests==2.23.0          # via coreapi
 six==1.14.0               # via blessed, python-dateutil
 sqlparse==0.3.1           # via django
 uritemplate==3.0.1        # via coreapi
-urllib3==1.25.8           # via requests
+urllib3==1.26.5           # via requests
 wcwidth==0.1.8            # via blessed
 
 # The following packages are considered to be unsafe in a requirements file:
